@@ -1,6 +1,6 @@
-from std.testing import TestSuite, assert_equal
+from std.testing import TestSuite, assert_equal, assert_true
 from std.random import shuffle
-from code.sort import insertion_sort
+from code.algo.sort import bubble_sort
 from asserts import assert_sorted
 
 
@@ -12,8 +12,8 @@ def lt(a: T, b: T) -> Bool:
     return a < b
 
 
-def test_insertion_sort() raises:
-    comptime f = insertion_sort
+def test_bubble_sort() raises:
+    comptime f = bubble_sort
 
     var got: U = []
     var want: U = []

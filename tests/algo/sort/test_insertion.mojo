@@ -1,6 +1,6 @@
 from std.testing import TestSuite, assert_equal
 from std.random import shuffle
-from code.sort import selection_sort
+from code.algo.sort import insertion_sort
 from asserts import assert_sorted
 
 
@@ -12,8 +12,8 @@ def lt(a: T, b: T) -> Bool:
     return a < b
 
 
-def test_selection_sort() raises:
-    comptime f = selection_sort
+def test_insertion_sort() raises:
+    comptime f = insertion_sort
 
     var got: U = []
     var want: U = []
