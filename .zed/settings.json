@@ -1,0 +1,9 @@
+{
+  "lsp": {
+    "mojo-lsp-server": {
+      "binary": {
+        "arguments": ["-I", "."]
+      }
+    }
+  }
+}
