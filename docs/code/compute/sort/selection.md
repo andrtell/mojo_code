@@ -1,8 +1,9 @@
 [Up](../sort.md)
 
-**External link**
+**External links**
 
-[Wikipedia: Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
+[Wikipedia / Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
+
 
 **Ascii illustration**
 

@@ -2,7 +2,8 @@
 
 **External links**
 
-[Wikipedia: Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort)
+[Wikipedia / Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort)
+
 
 **Ascii illustration**
 
