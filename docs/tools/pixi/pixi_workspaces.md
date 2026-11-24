@@ -87,10 +87,10 @@ $ pixi run python -VV
 Python 3.15.2 | packaged by conda-forge | (main, Oct 26 2026, 11:39:52) [GCC 15.3.0]
 ```
 ---
-**Links**
+**External links**
 
-[Pixi page](https://pixi.prefix.dev/)
+[Pixi homepage](https://pixi.prefix.dev/)
 
-[Conda page](https://docs.conda.io/en/latest/)
+[Conda homepage](https://docs.conda.io/en/latest/)
 
-[Anaconda page (search for packages)](https://anaconda.org/)
+[Anaconda homepage (search enginge for Conda packages)](https://anaconda.org/)

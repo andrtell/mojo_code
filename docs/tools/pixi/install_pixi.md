@@ -18,6 +18,6 @@ Later update `pixi`:
 $ pixi self-update
 ```
 ---
-**Links**
+**External links**
 
-[Pixi page](https://pixi.prefix.dev/)
+[Pixi homepage](https://pixi.prefix.dev/)

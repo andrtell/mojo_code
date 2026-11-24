@@ -29,8 +29,8 @@ $ cd ..
 direnv: unloading
 ```
 ---
-**Links**
+**External links**
 
-[direnv](https://direnv.net/)
+[Direnv homepage](https://direnv.net/)
 
 [Pixi integration with direnv](https://pixi.prefix.dev/latest/integration/third_party/direnv/)

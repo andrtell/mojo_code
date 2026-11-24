@@ -44,7 +44,7 @@ $ cd hello-world
 $ pixi add mojo
 ```
 ---
-**Links**
+**External links**
 
 [Mojo page](https://mojolang.org/)
 

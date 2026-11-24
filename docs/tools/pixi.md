@@ -13,6 +13,6 @@ Up
 [Pixi and Mojo](pixi/pixi_and_mojo.md)
 
 ---
-**Links**
+**External links**
 
-[Pixi page](https://pixi.prefix.dev)
+[Pixi homepage](https://pixi.prefix.dev)
