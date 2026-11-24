@@ -1,7 +1,7 @@
 from std.random import shuffle
 from std.benchmark import Bench, Bencher, BenchId
 
-from code.algo.sort import insertion_sort, selection_sort, bubble_sort
+from code.compute.sort import insertion_sort, selection_sort, bubble_sort
 
 @inline(.always)
 def lt(a: Int, b: Int) -> Bool:
