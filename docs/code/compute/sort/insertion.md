@@ -1,4 +1,10 @@
+[Up](../sort.md)
+
+**External links**
+
 [Wikipedia: Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort)
+
+**Ascii illustration**
 
 ```
 INSERTION SORT

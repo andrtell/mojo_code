@@ -1,4 +1,10 @@
+[Up](../sort.md)
+
+**External link**
+
 [Wikipedia: Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
+
+**Ascii illustration**
 
 ```
 SELECTION SORT

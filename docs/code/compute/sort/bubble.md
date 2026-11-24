@@ -1,4 +1,10 @@
+[Up](../sort.md)
+
+**External links**
+
 [Wikipedia: Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
+
+**Ascii illustration**
 
 ```
 BUBBLE SORT
