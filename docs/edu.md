@@ -11,6 +11,9 @@
 
 [Modular / MAX LLM Handbook](https://llm.modular.com/)
 
+### Programming
+
+[Project Euler](https://projecteuler.net/)
 
 ### Calculus
 
