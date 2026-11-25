@@ -1,6 +1,17 @@
 # EDU
 
 
+### Mojo
+
+[Modular / Mojo language](https://mojolang.org/)
+
+[Modular / Max](https://max.modular.com/)
+
+[Modular / LLM Inference handbook](https://handbook.modular.com/)
+
+[Modular / MAX LLM Handbook](https://llm.modular.com/)
+
+
 ### Calculus
 
 [MIT / 18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/pages/syllabus/)
