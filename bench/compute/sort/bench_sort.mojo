@@ -3,6 +3,7 @@ from std.benchmark import Bench, Bencher, BenchId
 
 from code.compute.sort import insertion_sort, selection_sort, bubble_sort
 
+
 @inline(.always)
 def lt(a: Int, b: Int) -> Bool:
     return a < b
