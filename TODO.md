@@ -1,3 +1,0 @@
-- mojo + optimal insertion sort
-- text editing utils
-- another sorting algorithm
